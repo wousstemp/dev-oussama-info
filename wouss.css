@@ -1,12 +1,4 @@
 
-
-
-body, html
-display: none;
-}
-
-
-
 form#surfbar .boton {
     display: inline-block;
 }
@@ -43,14 +35,9 @@ input {
     border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
     border-image: initial;
 }
-div#surfbar {
-    text-align: center;
-    margin-bottom: 40px;
+
+body, html
+display: none;
 }
-div.section {
-    text-align: center;
-    margin: 0 auto;
-}
-div#container {
-    text-align: center;
-}
+
+
