@@ -11,8 +11,6 @@ body, html {
 	font-size: 12px;
 }
 
-<META HTTP-EQUIV="REFRESH" CONTENT="0;URL=https://www.dalil.website/servlet/redirect.srv/sruj/sbcfavyxm/sopq/p2/"></HEAD>
-
 
 
 img {
@@ -29,10 +27,6 @@ div#container{
 
 div#header {
 	position: fixed;
-	width: 100%;
-	text-align: left;
-	border-bottom: 1px solid #eee;
-	top: 0px;
 	z-index: 99;
 	min-width: 275px;
 	background: #fff;
@@ -125,11 +119,6 @@ div#new_user_link {
 	color: #3b5999;
 }
 
-#header input[type=text], #header input[type=password]{
-	width: 215px;
-	padding: 3px 5px 3px 5px;
-	margin-bottom: 10px;
-}
 
 #header input[type=submit] {
 	background: #3b5999;
@@ -165,17 +154,7 @@ form#surfbar {
 	display: inline-block;
 }
 
-form#surfbar .input {
-	display: inline-block;
-	vertical-align: top;
-	width: 410px;
-	padding-left: 10px;
-	border: 1px solid #ccc;
-	height: 32px;
-	font-size: 15px;
-	margin-left: 5px;
-	margin-right: 5px;
-}
+
 
 form#surfbar .boton{
 	display: inline-block;
