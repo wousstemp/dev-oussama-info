@@ -69,7 +69,7 @@ div#kproxy_float_hide_button a > img, div#kproxy_float_extension_ad a > img, dis
 
 @media all and (max-width:1240px) {
 	div#kproxy_float_navigation input#kproxy_float_surfbar_input {
-		width: 300px !important;
+		display: none;
 	}
 }
 
